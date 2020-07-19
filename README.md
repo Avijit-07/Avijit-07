@@ -1,5 +1,5 @@
-## Hello World!! I'm Avijit...
+### Hello World!!
 
-- 🔭 I’m currently working on ... Kafka Connect, Kubernetes, Jenkins
-- 🌱 I’m currently learning ... Azure, Kafka
-- 🤔 I’m looking for help with ... Azure Certifications
+- 🔭 Working on ... Kafka Connect, Kubernetes, Jenkins
+- 🌱 Learning ... Azure, Kafka
+- 🤔 Would be helpful with ... Azure Certification!
