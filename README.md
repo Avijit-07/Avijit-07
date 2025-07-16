@@ -1,5 +1,5 @@
 ### System.out.println("Hello World...");
 
-> Working on Kafka Connect, Kubernetes, Jenkins
+> Working on AWS and bunch of boring stuff.
 
-> Currently learning GCP, Kafka, Github Actions
+> Currently learning OpenRewrite, NewRelic & SRE Principals
