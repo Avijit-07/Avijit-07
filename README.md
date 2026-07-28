@@ -1,6 +1,6 @@
 # Hej 👋
 
-**Site Reliability Engineer** · Java & Spring Boot backend ·
+**Site Reliability Engineer** · Java & Spring Boot backend
 
 I'm a Site Reliability Engineer where I focus on improving the reliability and observability of Payments system and incident response. I'm currently building production-grade tools at the intersection of backend engineering and AI — specifically around making the post-incident workflow less painful for on-call engineers.
 
@@ -17,9 +17,9 @@ An AI-powered service that ingests raw incident data (alerts, logs, PagerDuty ev
 
 ## How I think about engineering
 
-- **Observability first.** Incidents are inevitable; unclear timelines are not. I care about making systems interpretable before they break, not just after.
 - **Backend depth over breadth.** Java is my primary language. I'm interested in understanding the runtime, the collections internals, and writing code that performs well under load — not just code that works.
 - **SRE as a discipline, not a job title.** Error budgets, SLOs, and the feedback loop between reliability and feature velocity are things I find genuinely interesting to work on.
+- **Observability first.** Incidents are inevitable; unclear timelines are not. I care about making systems interpretable before they break, not just after.
 
 ---
 
@@ -28,11 +28,11 @@ An AI-powered service that ingests raw incident data (alerts, logs, PagerDuty ev
 | Area | Tools |
 |---|---|
 | Languages | Java, interested in Go |
-| Frameworks | Spring Boot, Spring Data JPA, Dagger |
+| Frameworks | Spring Boot, Dagger |
 | Observability | NewRelic (exploring with OpenTelemetry), AWS Lambda layers |
 | Infrastructure | Kubernetes (CKAD certified), AWS, Docker |
 | Build & CI | Gradle, Jenkins, GitHub Actions |
-| AI / LLM | Very early days of prompt engineering |
+| AI / LLM | Very slowly learning 🐌 |
 
 ---
 
